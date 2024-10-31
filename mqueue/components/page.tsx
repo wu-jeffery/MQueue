@@ -1,7 +1,5 @@
-'use client'
-
 import BadmintonQueue from './badminton-queue'
 
-export function PageComponent() {
+export default function PageComponent() {
   return <BadmintonQueue />
 }
